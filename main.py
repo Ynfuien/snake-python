@@ -16,8 +16,8 @@ TICK_TIME = 100
 # Colors
 class Colors(str, Enum):
     Background = "#242424"
-    SnakeHead = "#FFAA00"
-    SnakeBody = "#FFFF55"
+    SnakeHead = "#FFD43B"
+    SnakeBody = "#5A9FD4"
     Berry = "#FF5555"
     Border = "#555555"
     GameOver = "#FF5555"
