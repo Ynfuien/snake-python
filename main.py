@@ -37,7 +37,7 @@ gameOver = False
 
 # Create window
 window = Tk()
-window.title("Python")
+window.title("Snake Python")
 window.resizable(False, False)
 
 # Create canvas
